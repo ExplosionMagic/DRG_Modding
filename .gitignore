@@ -1,5 +1,4 @@
 #ignore documents/files
-/.gitignore
 /MODS/
 /FSD/.vs/
 /FSD/Binaries/
