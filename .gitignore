@@ -1,7 +1,6 @@
-#ignore documents/files
+#ignore directories & files
 
 /Binaries
 /Config
 /Plugins
 /FSD.uproject
-
